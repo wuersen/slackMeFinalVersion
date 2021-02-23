@@ -31,29 +31,6 @@
 * Like button
 * Emojis
 
-## Retro
-
-  ### What went well
-
-  * Requirements were laid out perfectly.
-  * Understanding of requirement and white board session was awesome.
-  * Mapping out the steps was done on day one to avoid distraction/s.
-  * Collaboration within the team was perfect.
-  * Well articulated README file.
-
-### What did not go well
-
-  * Lack of confidence in the beginning.
-  * Impatient when code does not go right.
-  * Fiddling with different options in google and Youtube.
-
-### Plans for upcoming project
-
-  * Stop fiddling around, need to stick with what was signed off.
-  * Regular interaction with TA's.
-  * Never say no attitude.
-  * No room for procrastination.
-  * Use JSFiddle to tidy code.
 
 ## Takeaways from the Project
 
